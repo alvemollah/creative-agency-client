@@ -1,0 +1,42 @@
+.brand-btn{
+  background-color: #111430;
+  width: 130px;
+  color: white;
+  font-weight: 600;
+}
+.brand-btn:hover{
+  background-color: #0f3057;
+  color: white;
+  font-weight: 600;
+}
+.navLink{
+  font-weight: 600;
+}
+.home{
+  background-color: #FBD062;
+  clip-path: polygon(0 0, 100% 0%, 100% 84%, 0% 100%);
+}
+.services{
+  height: 50px;
+}
+
+.custom-section{
+  padding: 50px 0;
+  height: auto;
+  background-color: #111430;
+}
+
+.footer{
+  background-color: #FBD062;
+}
+
+.nav-style{
+  color: #111430;
+  font-weight: 700;
+  border-bottom: 3px solid rgb(2, 221, 46);
+}
+
+.dashboard{
+  color: rgb(2, 221, 46);
+  font-weight: 600;
+}

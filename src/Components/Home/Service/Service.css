@@ -1,0 +1,27 @@
+.custom-card{
+    border-radius: 10px;
+    height: 250px;
+    overflow: hidden;
+    transform: scale(0.95);
+    transition: all 0.7s ease;
+}
+
+.custom-card:hover{
+    height: 250px;
+    border: 1px solid rgb(0, 0, 0);
+    transform: scale(1) rotateY(360deg);
+    transition: all ease-in-out 0.5s;
+    border-radius: 10px;
+}
+
+.review-card{
+    border: 1px solid gray;
+    border-radius: 10px;
+    height: 250px;
+    transition: all 0.7s ease;
+}
+
+.review-card:hover{
+    transform: rotateX(360deg);
+    transition: all ease-in 0.5s;
+}
